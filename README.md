@@ -1,2 +1,2 @@
 # berkeleycubeclub.github.io
-Cube club website and associated pages
+DON'T USE THIS ONE
