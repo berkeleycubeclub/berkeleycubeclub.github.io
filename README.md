@@ -1,2 +1,2 @@
 # berkeleycubeclub.github.io
-DON'T USE THIS ONE
+Don't use this. See <https://github.com/cubeclubatberkeley/cubeclubatberkeley.github.io>
